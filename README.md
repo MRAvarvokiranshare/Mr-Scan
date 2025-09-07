@@ -1,2 +1,17 @@
-# Mr-Scan
-It is a tool for scanning links on the Internet that is built with multiple languages and artificial intelligence tools that identify whether the link is malicious or healthy 
+# 🔍 Mr-Scan
+
+ابزاری ساده اما قدرتمند برای بررسی لینک‌ها در **Termux** و **Linux**.  
+این ابزار می‌تونه لینک‌ها رو تست کنه و وضعیتشون رو به شکل رنگی نشون بده:
+
+- ✔️ سبز → لینک سالم
+- ⚠️ زرد → احتمال فیشینگ
+- ❌ قرمز → لینک مخرب یا غیرقابل دسترسی
+
+---
+
+## ⚡ نصب و اجرا
+
+### 1. کلون کردن پروژه
+```bash
+git clone https://github.com/MRAvarvokiranshare/Mr-Scan.git
+cd Mr-Scan
