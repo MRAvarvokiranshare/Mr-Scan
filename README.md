@@ -38,3 +38,8 @@ pip install requests colorama
 
 # 3. اجرای ابزار
 python scanner.py https://example.com
+
+
+
+
+#این ابزار فعلا فقط برای استفاده عضو های  تیم میباشد 
